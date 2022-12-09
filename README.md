@@ -9,6 +9,7 @@ Materials:
 - source files for the tool QCSupport tool
 
 Abstract
+
 The study presented in this thesis provides a broad overview of classical Software Architectural Design supporting tools, with a focus on the DSS MoSAIC.
 Quantum systems were introduced and a survey of quantum software design support tools implemented in recent years was conducted in order to better understand the importance and usefulness of DSS tools for these architectures.
 The ontology underlying the MoSAIC system, which supports non-expert users in designing software intended for classical systems, was integrated by modeling key information inherent in design patterns and non-functional requirements for software Architectural Design description for quantum systems. 
