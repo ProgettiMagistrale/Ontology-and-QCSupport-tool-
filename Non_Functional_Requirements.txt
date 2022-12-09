@@ -1,0 +1,12 @@
+Simplicity_theory
+Algorithmic_efficiency
+Fault_tolerance
+Synchronization
+Reusability
+Adaptability
+Data_consistency
+Resilience
+Flexibility_(engineering)
+Computer_security
+Reliability
+Performance_engineering
