@@ -1,8 +1,10 @@
 # Ontology and QCSupport tool
 
-Thesis in Advanced Software Engineering: ##"Toward Quantum Software Architectures: tools for supporting architectural design" 
-Author: Dott. PETRONI Ernesto
-University: Politecnico di Bari
+Thesis in Advanced Software Engineering: 
+## "Toward Quantum Software Architectures: tools for supporting architectural design" 
+
+## Author: Dott. PETRONI Ernesto
+## University: Politecnico di Bari
 
 Materials:
 - Ontology file in .owl 
