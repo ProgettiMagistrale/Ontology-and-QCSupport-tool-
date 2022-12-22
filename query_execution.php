@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--
-	QCSuppport Tool 
+	Q-SAD DSS Tool
 -->
 
 
@@ -48,7 +48,7 @@ table td {
 	<!-- Header -->
 	<header id="header">
 		<h1>
-			<a href="index.html">QCSupport Tool </a>
+			<a href="index.html">Q-SAD DSS Tool</a>
 		</h1>
 		<nav id="nav">
 			<ul>
@@ -135,7 +135,7 @@ table td {
 		<div class="row">
 			<div class="8u 12u$(medium)">
 				<ul class="copyright">
-					<p>QCSupport Tool</p>
+					<p>Q-SAD DSS Tool</p>
 				</ul>
 			</div>
 
